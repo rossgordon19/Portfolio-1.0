@@ -35,6 +35,10 @@
     position: relative;
 }
 
+#about-me p {
+  /* text-indent: 50px; */
+}
+
 .bio {
 color: green;
 margin-bottom: 10px;
