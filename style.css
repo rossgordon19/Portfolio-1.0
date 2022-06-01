@@ -181,3 +181,8 @@ margin-bottom: 10px;
     height: 150px;
     object-fit: cover;
   }
+
+  #projects {
+    align-items: center;
+    justify-content: center;
+  }
