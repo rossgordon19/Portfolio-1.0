@@ -66,10 +66,14 @@ margin-bottom: 10px;
     font-family: 'Poppins', sans-serif;
     width: 100%;
     min-height: 100%;
-    background-color: #3C6E71;
+    background-color: #D9D9D9;
     padding-top: 30px;
     padding-bottom: 40px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.icons {
+  font-size: 90px;
 }
 
 .footer-custom {
