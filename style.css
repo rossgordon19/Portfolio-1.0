@@ -11,14 +11,15 @@
     display: block!important;
   }
 
- body {
+ /* body {
    position: relative;
- } 
+ }  */
 
 #header {
     font-family: 'Poppins', sans-serif;
     font-size: 120%;
-    background-color: #FFFFFF;
+    background-color: #D9D9D9;
+    color: rgb(0, 0, 0);
     height: 500px;
     justify-content: center;
     padding-top: 150px;
@@ -27,7 +28,7 @@
 .about-custom {
     width: 100%;
     min-height: 100%;
-    background-color: #D2D7DF;
+    background-color: #FFFFFF ;
     font-family: 'Poppins', sans-serif;
     align-items: center;
     justify-content: center;
@@ -35,12 +36,18 @@
     position: relative;
 }
 
+#about-me h2 {
+  text-align: center;
+  color: #000;
+}
+
 #about-me p {
   /* text-indent: 50px; */
+  color: #000;
 }
 
 .bio {
-color: green;
+color: rgb(0, 0, 0);
 margin-bottom: 10px;
 }
 
@@ -55,33 +62,29 @@ margin-bottom: 10px;
     padding-bottom: 30px;
 }
 
-.contact-custom {
+.skills-custom {
     font-family: 'Poppins', sans-serif;
     width: 100%;
     min-height: 100%;
-    background-color: #D2D7DF;
+    background-color: #3C6E71;
     padding-top: 30px;
     padding-bottom: 40px;
+    color: rgb(255, 255, 255);
 }
 
 .footer-custom {
     width: 100%;
     height: 250px;
-    background-color: #353535;
-    color: white;
+    background-color: #D9D9D9;
+    color: rgb(0, 0, 0);
     padding-top: 75px;
     font-family: 'Poppins', sans-serif;
 }
 
 .copyright {
-    background-color: #ffffff;
-    color: black;
+    background-color: #353535;
+    color: rgb(255, 255, 255);
     font-family: 'Poppins', sans-serif;
-}
-
-#skills {
-    margin-top: 0;
-    margin-bottom: ;
 }
 
 /* Projects Page  */
@@ -98,7 +101,7 @@ margin-bottom: 10px;
     font-size: 1.15em;
     font-weight: 900;
     margin: 0 0 0.5em;
-    color: #505050;
+    color: rgb(0, 0, 0);
   }
   @media (min-width: 450px) {
     h1.heading {
