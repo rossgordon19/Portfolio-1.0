@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&display=swap');
 
 .navbar-dark {
-    background-color: #353535;
+    /* background-color: #353535; */
+    background-color: #073B4C;
     color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 150%;
@@ -18,11 +19,16 @@
 #header {
     font-family: 'Poppins', sans-serif;
     font-size: 130%;
-    background-color: #D9D9D9;
-    color: rgb(0, 0, 0);
+    background-color: #073B4C;
+    /* background-color: #023E8A; */
+    color: rgb(255, 255, 255);
     height: 500px;
     justify-content: center;
     padding-top: 150px;
+}
+
+#header h1 {
+  color: white;
 }
 
 .about-custom {
@@ -65,28 +71,29 @@ margin-bottom: 10px;
     font-family: 'Poppins', sans-serif;
     width: 100%;
     min-height: 100%;
-    background-color: #D9D9D9;
+    background-color: #073B4C;
     padding-top: 30px;
     padding-bottom: 40px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .icons {
   font-size: 90px;
+  color: #fff;
 }
 
 .footer-custom {
     width: 100%;
     height: 250px;
-    background-color: #D9D9D9;
-    color: rgb(0, 0, 0);
+    background-color: #073B4C;
+    color: rgb(255, 255, 255);
     padding-top: 75px;
     font-family: 'Poppins', sans-serif;
 }
 
 .copyright {
-    background-color: #353535;
-    color: rgb(255, 255, 255);
+  background-color: #073B4C;
+  color: rgb(255, 255, 255);
     font-family: 'Poppins', sans-serif;
 }
 
