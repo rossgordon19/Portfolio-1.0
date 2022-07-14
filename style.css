@@ -6,8 +6,7 @@
     color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 150%;
-    border: 0;
-    box-shadow: none;
+    border-bottom: none;
 }
 
 .navbar-collapse.collapse.in {
@@ -27,8 +26,6 @@
     height: 350px;
     justify-content: center;
     padding-top: 100px;
-    border: none;
-    box-shadow: none;
 }
 
 #header h1 {
