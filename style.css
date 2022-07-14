@@ -19,16 +19,17 @@
 #header {
     font-family: 'Poppins', sans-serif;
     font-size: 130%;
-    background-repeat: no-repeat;
-    background-image: url('./img/wave.svg');
-    color: rgb(0, 0, 0);
+    background-color: #073B4C;
+    /* background-repeat: no-repeat;
+    background-image: url('./img/wave.svg'); */
+    color: rgb(255, 255, 255);
     height: 300px;
     justify-content: center;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 #header h1 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .about-custom {
