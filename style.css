@@ -21,13 +21,14 @@
 #header {
     font-family: 'Poppins', sans-serif;
     font-size: 130%;
-    /* background-color: #073B4C; */
     background-repeat: no-repeat;
     background-image: url('./img/wave.svg');
     color: rgb(0, 0, 0);
     height: 350px;
     justify-content: center;
     padding-top: 100px;
+    border: none;
+    box-shadow: none;
 }
 
 #header h1 {
