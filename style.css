@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&display=swap');
 
 .navbar-dark {
-    /* background-color: #353535; */
-    background-color: #073B4C;
+    /* background-color: #073B4C; */
+    background-color: #0e2158;
     color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 150%;
@@ -23,10 +23,6 @@
     justify-content: center;
     padding-top: 100px;
     border: none;
-}
-
-.bg-img {
-  width: 100%;
 }
 
 #header h1 {
