@@ -17,19 +17,20 @@
     font-size: 130%;
     background-image: url('./img/wave.svg');
     background-repeat: no-repeat;
-    background-size: contain;
-    color: #61818D;
+    background-size: cover;
+    /* background-position: center; */
+    color: rgb(255, 255, 255);
     height: 500px;
-    padding-top: 250px;
+    padding-top: 100px;
     border: none;
 }
 
 #header h1 {
-  color: #FFD166;
+  color: #fff;
 }
 
-#header p {
-  color: rgb(0, 0, 0);
+#header h1 p {
+  color: rgb(255, 255, 255);
   margin-top: -30px;
 }
 
